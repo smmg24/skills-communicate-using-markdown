@@ -3,3 +3,8 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] Add Heading
+- [x] Add Image
+- [x] Add code text
+- [ ] Add task list
+      
